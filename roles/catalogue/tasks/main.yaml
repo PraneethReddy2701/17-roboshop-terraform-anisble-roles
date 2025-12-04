@@ -35,12 +35,12 @@
       name: common
       tasks_from: systemsetup
 
-  - name: deployment
-    tags:
-      deployment
-    import_role:
-      name: common
-      tasks_from: deployment
+  # - name: deployment
+  #   tags:
+  #     deployment
+  #   import_role:
+  #     name: common
+  #     tasks_from: deployment
 
       
 
