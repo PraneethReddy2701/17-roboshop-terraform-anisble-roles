@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.bittu27.site
+MONGODB_HOST: "mongodb-{{ env }}.bittu27.site"
