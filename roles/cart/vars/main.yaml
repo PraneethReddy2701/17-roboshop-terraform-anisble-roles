@@ -1,2 +1,2 @@
-REDIS_HOST: "redis.bittu27.site"
-CATALOGUE_HOST: catalogue.bittu27.site
+REDIS_HOST: "redis-{{ env }}.bittu27.site"
+CATALOGUE_HOST: catalogue.backend-{{ env }}.bittu27.site
