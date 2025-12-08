@@ -1,6 +1,6 @@
 CART_HOST: cart.backend-{{ env }}.bittu27.site
 MYSQL_HOST: mysql-{{ env }}.bittu27.site
 MYSQL_LOGIN_USER: root
-MYSQL_LOGIN_PASSWORD: RoboShop@1
+MYSQL_ROOT_PASSWORD: RoboShop@1
 
 
